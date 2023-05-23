@@ -1,0 +1,19 @@
+.form_test {
+    text-align: center;
+    display: inline-flex;
+}
+
+.form_test_input {
+    height: 40px;
+    width: 400px;
+    margin: 20px;
+}
+
+.form_test_btn{
+    width: 400px;
+    height: 40px;
+}
+
+.form_test_layout{
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+.nav_bar {
+    padding: 5rem;
+    padding-bottom: 50px;
+    text-align: start;
+}
+
+.nav_bar_title {
+    display: inline-flex;
+    font-size: 20px;
+    height: 65px;
+    font-weight: bold;
+}
+
+.nav_bar_subtitle {
+    color: #EC0000;
+    font-size: 24px;
+    padding-left: 40px;
+}
+
+.nav_bar_icon {
+    padding-top: 30px;
+    padding-right: 20px;
+}

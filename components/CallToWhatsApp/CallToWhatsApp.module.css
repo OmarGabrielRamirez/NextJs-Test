@@ -1,0 +1,37 @@
+.call_to__whastapp {
+    text-align: center;
+    background: #FFFFFF;
+    border: 0.3px solid #B2B2B2;
+    box-shadow: 4px 7px 8px rgba(184, 184, 184, 0.25);
+    margin-left: 70px;
+    margin-right: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.call_to__whastapp_number{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+}
+
+.call_to__whastapp_title {
+    font-weight: 300;
+    text-align: end;
+    height: 20px;
+    display: inline-flex;
+    padding-right: 20px;
+}
+
+.call_to__whastapp_title_icon {
+    padding-right: 10px;
+}
+
+.call_to__whastapp_title_text {
+    height: 20px;
+}
